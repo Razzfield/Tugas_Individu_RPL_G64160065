@@ -1,4 +1,0 @@
-- User (email, password) x
-- Category (id, name, slug)
-- Post(id, id_kategori, title, content)
-- Comment (id, id_post, id_user, message)
